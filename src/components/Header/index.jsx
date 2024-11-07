@@ -5,7 +5,7 @@ export default function Header(){
         <div className="bg-neutralSilver">
             <div className="px-8 lg:px-14 max-w-screen-2xl mx-auto min-h-screen h-screen">
                 <Carousel className="w-full mx-auto">
-                    <div className="my-28 md:my-8 py-12 flex flex-col md:flex-row-reverse items-center justify-between gap-12">
+                    <div className="my-2 md:my-8 py-12 flex flex-col md:flex-row-reverse items-center justify-between gap-12">
                         <div>
                             <img src={Banner1} alt="Banner1 do slide"/>
                         </div>
@@ -17,7 +17,7 @@ export default function Header(){
                             <button className="btn-primary">Cadastre-se</button>
                         </div>
                     </div>
-                    <div className="my-28 md:my-8 py-12 flex flex-col md:flex-row-reverse items-center justify-between gap-12">
+                    <div className="my-2 md:my-8 py-12 flex flex-col md:flex-row-reverse items-center justify-between gap-12">
                         <div>
                             <img src={Banner1} alt="Banner1 do slide"/>
                         </div>
@@ -29,7 +29,7 @@ export default function Header(){
                             <button className="btn-primary">Saiba mais</button>
                         </div>
                     </div>
-                    <div className="my-28 md:my-8 py-12 flex flex-col md:flex-row-reverse items-center justify-between gap-12">
+                    <div className="my-2 md:my-8 py-12 flex flex-col md:flex-row-reverse items-center justify-between gap-12">
                         <div>
                             <img src={Banner1} alt="Banner1 do slide"/>
                         </div>
