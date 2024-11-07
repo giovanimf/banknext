@@ -9,7 +9,7 @@ export default function Statistics(){
             <div className="flex flex-col md:flex-row">
                 <div className="md:w-1/2 w-full">
                     <h2 className='text-4xl text-neutralDGrey font-semibold mb-4 md:w-4/5'>Conheça as Vantagens de Investir com a Gente</h2>
-                    <p className='md:w-3/4 text-sm text-neutralDGrey mb-4'>Investir pode parecer desafiador, mas quando você tem a orientação certa, os resultados falam por si. Descubra como o Banco XYZ pode ajudá-lo a atingir seus objetivos financeiros mais ambiciosos, com soluções inovadoras que oferecem segurança e crescimento. Nossa plataforma de investimentos permite que você explore diferentes tipos de ativos, com a confiança de que seu capital está sendo bem administrado.</p>
+                    <p className='md:w-3/4 text-sm text-neutralDGrey mb-4'>Investir pode parecer desafiador, mas quando você tem a orientação certa, os resultados falam por si. Descubra como BankNext pode ajudá-lo a atingir seus objetivos financeiros mais ambiciosos, com soluções inovadoras que oferecem segurança e crescimento. Nossa plataforma de investimentos permite que você explore diferentes tipos de ativos, com a confiança de que seu capital está sendo bem administrado.</p>
                 </div>
                 <div className="md:w-1/2 w-full grid grid-cols-2 gap-4">
                     <div className="flex items-center gap-4">
